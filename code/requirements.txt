@@ -1,0 +1,8 @@
+flask>=2.0
+pandas>=1.5
+python-pptx>=1.0.0
+matplotlib>=3.0
+openai>=0.27.0
+sqlalchemy>=1.4
+python-dotenv>=1.0
+pytest
